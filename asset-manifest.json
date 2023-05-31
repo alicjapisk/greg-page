@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/greg-page/static/css/main.0f2dc484.css",
-    "main.js": "/greg-page/static/js/main.2360e2ca.js",
+    "main.css": "/greg-page/static/css/main.e46b9194.css",
+    "main.js": "/greg-page/static/js/main.8abb7443.js",
     "static/js/787.5851edef.chunk.js": "/greg-page/static/js/787.5851edef.chunk.js",
+    "static/media/people.jpg": "/greg-page/static/media/people.51b82b219560d01f8a70.jpg",
+    "static/media/harmony-phone.png": "/greg-page/static/media/harmony-phone.490fd141ac1a3c849488.png",
+    "static/media/music2.png": "/greg-page/static/media/music2.78625d758ebca9c0b3b4.png",
+    "static/media/bgTiles.jpg": "/greg-page/static/media/bgTiles.6aca40698f8d3f1ca290.jpg",
     "index.html": "/greg-page/index.html",
-    "main.0f2dc484.css.map": "/greg-page/static/css/main.0f2dc484.css.map",
-    "main.2360e2ca.js.map": "/greg-page/static/js/main.2360e2ca.js.map",
+    "main.e46b9194.css.map": "/greg-page/static/css/main.e46b9194.css.map",
+    "main.8abb7443.js.map": "/greg-page/static/js/main.8abb7443.js.map",
     "787.5851edef.chunk.js.map": "/greg-page/static/js/787.5851edef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f2dc484.css",
-    "static/js/main.2360e2ca.js"
+    "static/css/main.e46b9194.css",
+    "static/js/main.8abb7443.js"
   ]
 }

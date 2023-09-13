@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/greg-page/static/css/main.d44c195f.css",
+    "main.js": "/greg-page/static/js/main.e57561ac.js",
+    "static/js/787.5851edef.chunk.js": "/greg-page/static/js/787.5851edef.chunk.js",
+    "static/media/people.jpg": "/greg-page/static/media/people.51b82b219560d01f8a70.jpg",
+    "static/media/person2.jpg": "/greg-page/static/media/person2.ca62ce5b4b11df7b5771.jpg",
+    "static/media/person3.jpg": "/greg-page/static/media/person3.477efdc97915622947f9.jpg",
+    "static/media/person1.jpg": "/greg-page/static/media/person1.f55a70fffddf2268cf62.jpg",
+    "static/media/tailwind.config.jpeg": "/greg-page/static/media/tailwind.config.3a186bbd35099dbfd094.jpeg",
+    "static/media/harmony-phone.png": "/greg-page/static/media/harmony-phone.490fd141ac1a3c849488.png",
+    "static/media/music2.png": "/greg-page/static/media/music2.78625d758ebca9c0b3b4.png",
+    "static/media/stars.png": "/greg-page/static/media/stars.66d801a4a716e21ac868.png",
+    "static/media/bgTiles.jpg": "/greg-page/static/media/bgTiles.6aca40698f8d3f1ca290.jpg",
+    "static/media/arrow.svg": "/greg-page/static/media/arrow.78908e618506fde5990f581b13f0bf18.svg",
+    "index.html": "/greg-page/index.html",
+    "main.d44c195f.css.map": "/greg-page/static/css/main.d44c195f.css.map",
+    "main.e57561ac.js.map": "/greg-page/static/js/main.e57561ac.js.map",
+    "787.5851edef.chunk.js.map": "/greg-page/static/js/787.5851edef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d44c195f.css",
+    "static/js/main.e57561ac.js"
+  ]
+}

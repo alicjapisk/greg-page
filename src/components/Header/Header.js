@@ -1,5 +1,5 @@
 import React from "react";
-import music from "../../images/music2.png";
+import music from "../../assets/img/music2.png";
 
 function Header() {
   return (
